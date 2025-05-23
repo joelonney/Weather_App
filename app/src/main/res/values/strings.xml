@@ -1,0 +1,9 @@
+<resources>
+    <!-- Other strings your app might have -->
+    <string name="app_name">My Weather App</string>
+    <string name="refresh">Refresh</string>
+    <string name="weather_icon_description">Current weather icon</string>
+
+    <!-- Add this line for the settings button description -->
+    <string name="settings_button_description">Open settings menu</string>
+</resources>
